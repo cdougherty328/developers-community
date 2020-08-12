@@ -19,6 +19,17 @@ indicator: both
 
 
 <div class="card-container" style="margin-top:40px;">
+        <a class="welcome-card" href="/users-api-overview.html"> 
+        <img class="container-image" src="img/ic_APIs.svg"/>
+        <h5 class="getstarted-title">CONVERSATIONAL AI</h5>
+        <h5 class="getstarted-content ">Understand consumer intents</h5>
+        </a>
+        <a class="welcome-card"  href="/api-guidelines-retry-policy-recommendations.html"> 
+        <img class="container-image" src="img/ic_APIs.svg"/>
+        <h5 class="getstarted-title">MESSAGING CHANNELS</h5>
+        <h5 class="getstarted-content ">Engage consumers proactively</h5>
+        </a>
+</div>
         <a class="welcome-card" target="_blank" href="https://knowledge.liveperson.com/getting-started-getting-started-with-messaging.html"> 
         <img class="container-image" src="img/ic_Facebook.svg"/>
         <h5 class="getstarted-title">MESSAGING CHANNELS</h5>
